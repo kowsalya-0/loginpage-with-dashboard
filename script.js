@@ -31,8 +31,8 @@ const loader =
 
 let failedAttempts = 0;
 
-const correctUsername = "princy";
-const correctPassword = "princy@2024";
+const correctUsername = "kowsi";
+const correctPassword = "kowsi@2002";
 
 /*
   Page open aagumbothu saved username iruntha
